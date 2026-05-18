@@ -10,4 +10,3 @@ Currently Working:
 Learning:
 - Java
 - Java Spring Boot
-- Angular 
